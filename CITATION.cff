@@ -1,11 +1,11 @@
 cff-version: 1.2.0
-message: "If you use this software expansion or its logic, please cite the Author as follows."
+message: "Official citation for this software expansion. Please credit the Author as follows."
 authors:
-  - family-names: "Munch"
-    given-names: "Comic"
+  - name: "Comic Munch"
     alias: "@comic_munch"
+    website: "https://linktr.ee/TrainingGearDigimonLink"
 title: "Training Gear: Digimon Link"
-version: 4.0.0
+version: "4.0.0"
 date-released: 2026-03-28
 url: "https://github.com/ComicMunch/Training-Gear-Digimon-Link"
 repository-code: "https://archive.org/details/training-gear-digimon-link-manual-comic-munch"
